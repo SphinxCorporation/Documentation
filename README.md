@@ -1,6 +1,6 @@
-# Website
+# SPHINX DOCUMENTATION
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Sphinx Documentation is built using [Docusaurus](https://docusaurus.io/), a modern static website generator by **Meta.**
 
 ### Installation
 
